@@ -1,6 +1,6 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=300&section=header&text=Hi%20there!%20👋&fontSize=70&animation=fadeIn&fontAlignY=38&desc=Welcome%20to%20y0un9eee's%20GitHub%20Profile&descAlignY=55&descAlign=50)
 
-<div align="center">
+<div align="left">
   
 ## 🙋‍♀️ About Me
 
