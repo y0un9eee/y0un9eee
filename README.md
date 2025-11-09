@@ -5,17 +5,12 @@
 ## 🙋‍♀️ About Me
 
 안녕하세요! Kim Yun Ji(yunyun)입니다.
-
 </div>
-
----
 
 ## 🪪Profile
 - yunyun
 - Ewha Womans University
 - Web2 Security
-
----
 
 ## 🌱 Career
 - WhiteHat School 2nd
@@ -29,8 +24,6 @@
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
 </div>
-
----
 
 ### 📫 How to reach me
 
