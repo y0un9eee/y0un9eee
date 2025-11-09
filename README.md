@@ -49,6 +49,3 @@
 
 ![](https://komarev.com/ghpvc/?username=y0un9eee&color=blueviolet&style=for-the-badge&label=PROFILE+VIEWS)
 
-</div>
-
-![footer](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=150&section=footer)
