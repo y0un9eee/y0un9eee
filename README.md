@@ -38,14 +38,3 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/윤지-김-408655304)
 
 </div>
-
----
-
-<div align="center">
-
----
-
-<div align="left">
-
-![](https://komarev.com/ghpvc/?username=y0un9eee&color=blueviolet&style=for-the-badge&label=PROFILE+VIEWS)
-
