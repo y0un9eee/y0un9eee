@@ -15,7 +15,7 @@
 ## 🌱 Career
 - WhiteHat School 2nd
 - Best of the Best Security Consulting 13nd
-- Huntin master 2nd
+- Hunting master 2nd
 
 ## 💻 Tech Stack
 
